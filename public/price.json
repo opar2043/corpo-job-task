@@ -1,0 +1,23 @@
+[
+    {
+      "category": "men",
+      "price": 34
+    },
+    {
+      "category": "women",
+      "price": 19
+    },
+    {
+      "category": "kids",
+      "price": 29
+    },
+    {
+      "category": "Adult",
+      "price": 199
+    },
+    {
+      "category": "both",
+      "price": 89
+    }
+  ]
+  

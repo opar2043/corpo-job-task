@@ -1,0 +1,164 @@
+[
+    {
+      "_id": "67bd3fe1ee4a5310cf168ead",
+      "name": "Men's Chinos",
+      "price": 34.99,
+      "category": "men",
+      "rating": 4.3,
+      "size": [ "S", "M", "L" ],
+      "description": "Classic chinos made with a blend of cotton and stretch fabric for a comfortable fit.",
+      "image": "https://i.ibb.co/PmsJNB3/women-6.jpg",
+      "sell": "top"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eae",
+      "name": "Women's Scarf",
+      "price": 19.99,
+      "category": "women",
+      "rating": 4.6,
+      "size": [ "One Size" ],
+      "description": "A soft and elegant scarf that adds a pop of color to any outfit.",
+      "image": "https://i.ibb.co/s6jWsyD/men-3.jpg",
+      "sell": "top"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb8",
+      "name": "Women's High Heels",
+      "price": 59.99,
+      "category": "women",
+      "rating": 4.7,
+      "size": [ "6", "7", "8" ],
+      "description": "Elegant high heels that add a touch of sophistication to any outfit.",
+      "image": "https://i.ibb.co/PmsJNB3/women-6.jpg",
+      "sell": "top"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb6",
+      "name": "Women's Handbag",
+      "price": 89.99,
+      "category": "women",
+      "rating": 4.8,
+      "size": [ "One Size" ],
+      "description": "A chic and spacious handbag for women. Perfect for daily use.",
+      "image": "https://i.ibb.co/PmsJNB3/women-6.jpg"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eaa",
+      "name": "Men's Polo Shirt",
+      "price": 29.99,
+      "category": "men",
+      "rating": 4.5,
+      "size": [ "S", "M", "L" ],
+      "description": "A stylish and comfortable polo shirt for a refined casual look.",
+      "image": "https://i.ibb.co/Hq16zSy/men-1.jpg",
+      "sell": "top"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eab",
+      "name": "Women's Sweater",
+      "price": 39.99,
+      "category": "women",
+      "rating": 4.8,
+      "size": [ "S", "M", "L" ],
+      "description": "Soft and cozy sweater that adds warmth and style to any wardrobe.",
+      "image": "https://i.ibb.co/PmsJNB3/women-6.jpg",
+      "sell": "top"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eaf",
+      "name": "Kids' Sneakers",
+      "price": 29.99,
+      "category": "kids",
+      "rating": 4.4,
+      "size": [ "XS", "S" ],
+      "description": "Comfortable and durable sneakers for active kids.",
+      "image": "https://i.ibb.co/Hq16zSy/men-1.jpg",
+      "sell": "top"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb7",
+      "name": "Kids' Boots",
+      "price": 39.99,
+      "category": "kids",
+      "rating": 4.5,
+      "size": [ "XS", "S" ],
+      "description": "Durable and comfortable boots for kids, ideal for outdoor adventures.",
+      "image": "https://i.ibb.co/Hq16zSy/men-1.jpg"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb4",
+      "name": "Kids' Backpack",
+      "price": 19.99,
+      "category": "kids",
+      "rating": 4.6,
+      "size": [ "One Size" ],
+      "description": "A fun and practical backpack for kids, perfect for school or weekend adventures.",
+      "image": "https://i.ibb.co/s6jWsyD/men-3.jpg"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb2",
+      "name": "Men's Sneakers",
+      "price": 49.99,
+      "category": "men",
+      "rating": 4.9,
+      "size": [ "M", "L" ],
+      "description": "Stylish and comfortable sneakers designed for active men.",
+      "image": "https://i.ibb.co/s6jWsyD/men-3.jpg"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb5",
+      "name": "Men's Jacket",
+      "price": 69.99,
+      "category": "men",
+      "rating": 4.7,
+      "size": [ "S", "M", "L" ],
+      "description": "A stylish jacket for men that combines fashion and function.",
+      "image": "https://i.ibb.co/s6jWsyD/men-3.jpg"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eac",
+      "name": "Kids' Jacket",
+      "price": 49.99,
+      "category": "kids",
+      "rating": 4.7,
+      "size": [ "S", "M", "L" ],
+      "description": "A warm and stylish jacket for kids, perfect for winter.",
+      "image": "https://i.ibb.co/s6jWsyD/men-3.jpg",
+      "sell": "top"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb0",
+      "name": "Men's Sweatshirt",
+      "price": 39.99,
+      "category": "men",
+      "rating": 4.8,
+      "size": [ "S", "M", "L" ],
+      "description": "A cozy and stylish sweatshirt, perfect for casual days or lounging.",
+      "image": "https://i.ibb.co/PmsJNB3/women-6.jpg",
+      "sell": "top"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb1",
+      "name": "Kids' T-shirt",
+      "price": 14.99,
+      "category": "kids",
+      "rating": 4.2,
+      "size": [ "S", "M", "L" ],
+      "description": "A fun and colorful T-shirt for kids, featuring their favorite characters.",
+      "image": "https://i.ibb.co/Hq16zSy/men-1.jpg"
+    },
+    {
+      "_id": "67bd3fe1ee4a5310cf168eb3",
+      "name": "Women's Skirt",
+      "price": 39.99,
+      "category": "women",
+      "rating": 4.3,
+      "size": [ "S", "M", "L" ],
+      "description": "A sleek and stylish skirt that can be dressed up or down.",
+      "image": "https://i.ibb.co/Hq16zSy/men-1.jpg"
+    }
+
+  ]
+  
+
+
