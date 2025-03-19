@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 const Table = () => {
   const [price, setPrice] = useState([]);
   useEffect(() => {
-    fetch("/public/price.json")
+    fetch("/price.json")
       .then((res) => res.json())
       .then((data) => {
         setPrice(data);
